@@ -67,6 +67,7 @@
 Placement des navires du joueur...
 Placement des navires de l'ordinateur...
 
+```
 Grille de l'ordinateur :
   0 1 2 3 4 
 0 ~ ~ ~ ~ ~ 
@@ -81,7 +82,8 @@ Votre grille :
 1 ~ ~ ~ ~ ~ 
 2 ~ ~ ~ ~ ~ 
 3 ~ ~ ~ ~ ~ 
-4 ~ ~ ~ ~ ~ 
+4 ~ ~ ~ ~ ~
+```
 
 Votre tour! Entrez les coordonnees (x y) pour tirer: 2 2
 A l'eau!
