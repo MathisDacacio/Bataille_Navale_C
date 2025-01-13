@@ -10,6 +10,7 @@
    - [Pré-requis](#pré-requis)
    - [Instructions](#instructions-1)
    - [Exemple d'Exécution](#exemple-dexécution)
+6. [Contact](#contact)
 
 ## Description
 
@@ -54,7 +55,10 @@
 
    ```bash
    gcc -o bataille_navale bataille_navale.c
-4. Exécutez le programme : ./bataille_navale
+4. Exécutez le programme :
+
+   ```bash
+   ./bataille_navale
 
 ### Exemple d'Exécution
 
@@ -88,4 +92,10 @@ L'ordinateur a tire en (1, 1) et a manque.
 
 Felicitations, vous avez gagne!
 Fin du jeu. Merci d'avoir joue!
+
+## Contact
+
+Créé par **Mathis Dacacio**.  
+[Mon LinkedIn](https://www.linkedin.com/in/mathis-dacacio-298a25293/)  
+Pour toute question, merci de me contacter via le formulaire de la page ou directement sur LinkedIn.
 
