@@ -62,12 +62,12 @@
 
 ### Exemple d'Exécution
 
+```
 === Bataille Navale ===
 
 Placement des navires du joueur...
 Placement des navires de l'ordinateur...
 
-```
 Grille de l'ordinateur :
   0 1 2 3 4 
 0 ~ ~ ~ ~ ~ 
@@ -83,7 +83,6 @@ Votre grille :
 2 ~ ~ ~ ~ ~ 
 3 ~ ~ ~ ~ ~ 
 4 ~ ~ ~ ~ ~
-```
 
 Votre tour! Entrez les coordonnees (x y) pour tirer: 2 2
 A l'eau!
@@ -94,6 +93,7 @@ L'ordinateur a tire en (1, 1) et a manque.
 
 Felicitations, vous avez gagne!
 Fin du jeu. Merci d'avoir joue!
+```
 
 ## Contact
 
